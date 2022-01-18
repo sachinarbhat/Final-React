@@ -1,0 +1,180 @@
+{
+  "ResumeDetails": [
+    [
+      {
+        "firstName": "Sachin A",
+        "lastName": "Bhata",
+        "emailId": "a@gmail.com",
+        "webSite": "",
+        "linkedIn": "",
+        "facebook": "",
+        "phoneNo": "7777777777",
+        "gitHub": "",
+        "twitter": "",
+        "instagram": ""
+      }
+    ],
+    [
+      {
+        "firstName": "Sachin A",
+        "lastName": "Bhata",
+        "emailId": "a@gmail.com",
+        "webSite": "",
+        "linkedIn": "",
+        "facebook": "",
+        "phoneNo": "7777777777",
+        "gitHub": "",
+        "twitter": "",
+        "instagram": ""
+      },
+      {
+        "collegeName": "SSIT",
+        "collegeJoin": "2022-01-19",
+        "collegeFinish": "2022-01-17",
+        "collegeQualification": "BE",
+        "collegeDescription": "",
+        "schoolName": "Vikasa",
+        "schoolJoin": "2022-01-18",
+        "schoolFinish": "2022-01-18",
+        "schoolQualification": "SSLC",
+        "schoolDescription": ""
+      }
+    ],
+    [
+      {
+        "firstName": "Sachin A",
+        "lastName": "Bhata",
+        "emailId": "a@gmail.com",
+        "webSite": "",
+        "linkedIn": "",
+        "facebook": "",
+        "phoneNo": "7777777777",
+        "gitHub": "",
+        "twitter": "",
+        "instagram": ""
+      },
+      {
+        "collegeName": "SSIT",
+        "collegeJoin": "2022-01-19",
+        "collegeFinish": "2022-01-17",
+        "collegeQualification": "BE",
+        "collegeDescription": "",
+        "schoolName": "Vikasa",
+        "schoolJoin": "2022-01-18",
+        "schoolFinish": "2022-01-18",
+        "schoolQualification": "SSLC",
+        "schoolDescription": ""
+      },
+      {
+        "p1Title": "gggajjjjjj",
+        "p1Link": "https://frugalisminds.com/how-to-download-file-in-react-js-react-download-link/",
+        "p1Description": "",
+        "p2Title": "",
+        "p2Link": "",
+        "p2Description": ""
+      }
+    ],
+    [
+      {
+        "firstName": "Sachin A",
+        "lastName": "Bhata",
+        "emailId": "a@gmail.com",
+        "webSite": "",
+        "linkedIn": "",
+        "facebook": "",
+        "phoneNo": "7777777777",
+        "gitHub": "",
+        "twitter": "",
+        "instagram": ""
+      },
+      {
+        "collegeName": "SSIT",
+        "collegeJoin": "2022-01-19",
+        "collegeFinish": "2022-01-17",
+        "collegeQualification": "BE",
+        "collegeDescription": "",
+        "schoolName": "Vikasa",
+        "schoolJoin": "2022-01-18",
+        "schoolFinish": "2022-01-18",
+        "schoolQualification": "SSLC",
+        "schoolDescription": ""
+      },
+      {
+        "p1Title": "gggajjjjjj",
+        "p1Link": "https://frugalisminds.com/how-to-download-file-in-react-js-react-download-link/",
+        "p1Description": "",
+        "p2Title": "",
+        "p2Link": "",
+        "p2Description": ""
+      },
+      {
+        "exp1Name": "",
+        "exp1Position": "",
+        "exp1Duration": "",
+        "exp1Description": "",
+        "exp2Name": "",
+        "exp2Position": "",
+        "exp2Duration": "",
+        "exp2Description": ""
+      }
+    ],
+    [
+      {
+        "firstName": "Sachin A",
+        "lastName": "Bhata",
+        "emailId": "a@gmail.com",
+        "webSite": "",
+        "linkedIn": "",
+        "facebook": "",
+        "phoneNo": "7777777777",
+        "gitHub": "",
+        "twitter": "",
+        "instagram": ""
+      },
+      {
+        "collegeName": "SSIT",
+        "collegeJoin": "2022-01-19",
+        "collegeFinish": "2022-01-17",
+        "collegeQualification": "BE",
+        "collegeDescription": "",
+        "schoolName": "Vikasa",
+        "schoolJoin": "2022-01-18",
+        "schoolFinish": "2022-01-18",
+        "schoolQualification": "SSLC",
+        "schoolDescription": ""
+      },
+      {
+        "p1Title": "gggajjjjjj",
+        "p1Link": "https://frugalisminds.com/how-to-download-file-in-react-js-react-download-link/",
+        "p1Description": "",
+        "p2Title": "",
+        "p2Link": "",
+        "p2Description": ""
+      },
+      {
+        "exp1Name": "",
+        "exp1Position": "",
+        "exp1Duration": "",
+        "exp1Description": "",
+        "exp2Name": "",
+        "exp2Position": "",
+        "exp2Duration": "",
+        "exp2Description": ""
+      },
+      {
+        "skill1": "aaaaaaa",
+        "skill2": "sssssssss",
+        "skill3": "aaaaaaaa",
+        "skill4": "",
+        "skill5": "",
+        "skill6": "",
+        "interest1": "xxxxxxxx",
+        "interest2": "xxxxxxxx",
+        "interest3": "xxxxxxx",
+        "interest4": "",
+        "interest5": "",
+        "interest6": ""
+      }
+    ]
+  ]
+}
