@@ -169,7 +169,7 @@ function Fifth(props) {
                         <DownloadLink
                             className="btn btn-success text-light"
                             label="Download"
-                            filename="myResume.txt"
+                            filename="myResume.pdf"
                             exportFile={() => Promise.resolve(getDataFromURL (url))} />
                 </div>
             </Form>
